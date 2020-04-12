@@ -1,5 +1,9 @@
 public class HelloGit {
 
+    void myMethod(){
+
+    }
+
     public static void main(String[] args) {
 
 
